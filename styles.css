@@ -29,8 +29,8 @@ body {
   
   .theme__fill {
     background-color: var(--bg);
-    display: block;
     mix-blend-mode: difference;
+    display: block;
     position: fixed;
     inset: 0;
     height: 100%;
